@@ -67,7 +67,7 @@ This page provides a high-level summary of the Netflix dataset.
 * Recently Added Titles Table
 * Interactive Slicers
 
-<img width="1903" height="905" alt="image" src="https://github.com/user-attachments/assets/38022c22-04fa-4992-86d6-6b2c984afbf0" />
+<img width="1039" height="580" alt="image" src="https://github.com/user-attachments/assets/9a435caa-a93d-416f-a68a-6ce356ae2662" />
 
 
 ---
@@ -84,7 +84,7 @@ This page focuses on content growth and release trends over time.
 * Type-wise Content Growth
 * Drill-down Time Analysis
 
-<img width="1898" height="908" alt="image" src="https://github.com/user-attachments/assets/7374cc33-7057-4055-ba19-8f8f75aa414d" />
+<img width="1039" height="581" alt="image" src="https://github.com/user-attachments/assets/f246ede0-5f04-4551-aa36-f0263ec9f87c" />
 
 
 ---
@@ -101,7 +101,7 @@ This page analyzes content characteristics and audience patterns.
 * Rating Distribution Analysis
 * Top Titles Table
 
-<img width="1903" height="913" alt="image" src="https://github.com/user-attachments/assets/75ef9bd4-9181-44b0-a07b-34fecdd9815f" />
+<img width="1032" height="588" alt="image" src="https://github.com/user-attachments/assets/3ab377d4-d3ae-408b-b3a4-4f315f3f3b76" />
 
 ---
 
@@ -116,7 +116,7 @@ This page focuses on global Netflix content distribution.
 * Country-wise Rating Distribution
 * Regional Content Insights
 
-<img width="1899" height="909" alt="image" src="https://github.com/user-attachments/assets/31d65334-461d-4937-ad06-ee05a9d8e31e" />
+<img width="1041" height="582" alt="image" src="https://github.com/user-attachments/assets/f5568f36-4d91-4e67-bd19-a6f5a619e30a" />
 
 
 #  Dashboard Design Approach
